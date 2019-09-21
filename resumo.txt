@@ -1,0 +1,10 @@
+instalar Cordova
+sudo npm install ionic cordova -g
+
+criar novo projeto ionic blank  template
+ionic start IonicShoppingList blank --type=ionic-angular
+
+instalar firebase
+***** esse não funcionou sudo npm install firebase firebaseangular2 --save
+sudo npm install -E firebase@4.8.2 angularfire2@5.0.0-rc.4
+>>> esse é o usado no exemplo: sudo npm install -E firebase@4.5.2 angularfire2@5.0.0-rc.3
